@@ -1,4 +1,6 @@
-# Bucket List - Project from Udemy Course https://www.udemy.com/course/learn-angular-5-completely-from-scratch/
+# Bucket List
+
+This project was developed during the course [Learn Angular 5 from scratch](https://www.udemy.com/course/learn-angular-5-completely-from-scratch/) at Udemy.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
