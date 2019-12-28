@@ -1,4 +1,4 @@
-# Ng5
+# Bucket List - Project from Udemy Course https://www.udemy.com/course/learn-angular-5-completely-from-scratch/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
